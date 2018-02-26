@@ -1,0 +1,9 @@
+library	framework	model	plugin	package	application	app	engine	sdk	gem	binding	
+kit	widget	suite	toolkit	tool	
+adapter	converter	wrapper	mapper	
+software	system	platform
+class	api	function	subclass																
+database	dbms	rdbms																	
+parser	debugger	compiler																	
+design	pattern
+editor	ide	environment															

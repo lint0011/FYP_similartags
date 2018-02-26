@@ -275,7 +275,7 @@ design,null
 data-structures,structure
 awk,language
 plugins,software
-pdo,layer(interface)
+pdo,layer
 database-design,process
 parse.com,sdk
 reporting-services,generator
@@ -2259,7 +2259,7 @@ scaling,null
 sensor,null
 tcpclient,class
 keystore,repository
-abstract-syntax-tree,trees
+abstract-syntax-tree,tree
 optional,type
 middleware,software
 facebook-ios-sdk,sdk
@@ -3277,7 +3277,7 @@ rtp,protocol
 mount,command
 32-bit,term
 voice-recognition,null
-branching-and-merging,branches
+branching-and-merging,null
 android-gallery,application
 powerbuilder,language
 git-rebase,command
@@ -4823,7 +4823,7 @@ prawn,library
 ng-class,directive
 anonymous,null
 sqliteopenhelper,class
-smlnj,ml
+smlnj,null
 rails-i18n,repository
 implode,function
 hybris,software
@@ -5054,7 +5054,7 @@ error-logging,process
 developer-tools,null
 crystal-reports-xi,application
 bbcode,language
-symfony-sonata,project]
+symfony-sonata,null
 montecarlo,system
 lets-encrypt,authority
 jquery-hover,method
@@ -8145,7 +8145,7 @@ android-wear-data-api,service
 var-dump,function
 spectrum,function
 robospice,library
-reserved-words,words
+reserved-words,null
 panels,control
 migradoc,library
 import-from-csv,execution
@@ -8403,7 +8403,7 @@ leveldb,library
 jquery-events,method
 construct,parser
 automapping,feature
-arr,routing(arr)
+arr,null
 apple-maps,application
 angular-nvd3,directive
 wcag,ide
@@ -8439,7 +8439,7 @@ minesweeper,program
 memory-barriers,instruction
 map-projections,project
 inflate-exception,exception
-gobject,system)
+gobject,system
 gluon-mobile,platform
 fips,term
 fields-for,object
@@ -8450,7 +8450,7 @@ code-metrics,code
 chutzpah,website
 catalina,component
 waf,framework
-square-root,y
+square-root,value
 runas,command
 qlistview,control
 qlist,class
@@ -8557,7 +8557,7 @@ encog,framework
 android-multidex,technology
 android-gesture,package
 android-anr-dialog,message
-yield-return,thats
+yield-return,null
 webtest,framework
 tflearn,repository
 string-conversion,dataType
@@ -8994,7 +8994,7 @@ pbx,system
 nsimageview,object
 ngrok,ide
 modern-ui,control
-jquery-jscrollpane,by(http://wwwkelvinluckcom)
+jquery-jscrollpane,null
 ios8-share-extension,extension
 installshield-le,port
 getattr,function
@@ -10500,7 +10500,7 @@ parental-control,control
 slackware,distribution
 testdriven.net,plugin
 visual-assist,extension
-squirrel,thats
+squirrel,null
 typepad,service
 trackpad,device
 baml,file
@@ -11401,7 +11401,7 @@ bbedit,editor
 smart-device,device
 vcf,standard
 zorba,processor
-nexusdb,embedded(free)
+nexusdb,null
 pendrive,drives
 thread-abort,exception
 atompub,protocol
@@ -11584,7 +11584,7 @@ merge-module,module
 mobileme,service
 application-shutdown,application
 bcd,method
-makecert,x509
+makecert,null
 myob,company
 reentrantreadwritelock,class
 stx,language
@@ -11642,7 +11642,7 @@ messageformat,class
 connection-points,interface
 qtscript,implementation
 lcov,tool
-bind2nd,std::bind2nd()
+bind2nd,null
 string-metric,value
 pcmanfm,application
 trouble-tickets,mechanism
@@ -12779,7 +12779,7 @@ jaybird,driver
 change-notification,technology
 terminal-emulator,program
 elapsedtime,event
-sieve-of-atkin,sieve
+sieve-of-atkin,null
 inverted-index,structure
 brace-expansion,command
 getschematable,method
@@ -13039,7 +13039,7 @@ horizontal-scaling,server
 68hc11,family
 python-2to3,tool
 vtd-xml,language
-hyperic,monitoring
+hyperic,null
 office-pia,project
 taglib-sharp,library
 cstdint,type
@@ -13204,7 +13204,7 @@ django-filebrowser,app
 rubiks-cube,architecture
 glasspane,event
 fennec,name
-ie-plugins,add-ons
+ie-plugins,add-on
 futex,construct
 rhino-security,framework
 monobjc,library
@@ -13705,7 +13705,7 @@ mlint,command
 jazz,product
 combres,library
 lidgren,library
-aggpas,pascal
+aggpas,null
 dot-operator,operator
 phpcassa,library
 nonce,number
@@ -13885,7 +13885,7 @@ hlist,element
 default-arguments,value
 decidable,language
 approximate-nn-searching,problem
-mercurial-bigfiles,allows
+mercurial-bigfiles,null
 inherited-resources,controller
 enscript,program
 usleep,function
@@ -14099,7 +14099,7 @@ visiblox,company
 load-time-weaving,class
 apache-commons-exec,library
 multicastdelegate,method
-jdownloader,independent
+jdownloader,null
 openfaces,library
 markaby,library
 nl2br,function
@@ -14178,7 +14178,7 @@ rfc5322,message
 tbuttonededit,control
 scraperwiki,tool
 padarn,server
-mysql-error-1364,doesnt
+mysql-error-1364,null
 datajs,library
 jtreetable,component
 qvt,language
@@ -14290,7 +14290,7 @@ pypm,manager
 rails-for-zombies,school
 molehill,name
 sql-server-openxml,keyword
-chromeless,experiments
+chromeless,null
 amember,plugin
 tapku,framework
 messagepack,library
@@ -14582,7 +14582,7 @@ waffle,framework
 metaocaml,extension
 binomial-heap,structure
 google-authenticator,application
-interspire-shopping-cart,rich
+interspire-shopping-cart,null
 clp,paradigm
 fannj,binding
 fluentcassandra,library
@@ -14993,7 +14993,7 @@ lwuit-command,command
 boost-geometry,library
 lwuit-combobox,element
 clevercss,language
-otl,interface&#xd&#xa
+otl,null
 rgraph,library
 qtgstreamer,binding
 jax-ws-customization,control
@@ -15358,7 +15358,7 @@ mkplacemark,class
 stdtuple,object
 html5shiv,browser
 dotless,port
-entity-framework-5,5
+entity-framework-5,framework
 nsfilecoordinator,class
 kismet,tool
 shadow-mapping,technique
@@ -15658,7 +15658,7 @@ nresponder,library
 libresolv,library
 iso-8859-15,standard
 dapper-rainbow,method
-mxgraph,javascript
+mxgraph,null
 cctexturecache,manager
 arithmeticexception,exception
 site-prism,pattern
@@ -15743,7 +15743,7 @@ columnsorting,technique
 openimaj,toolkit
 mknetworkkit,operation
 buster.js,module
-umbraco-ucommerce,ucommerce
+umbraco-ucommerce,null
 repast-simphony,system
 teneo,model
 thinktecture-ident-model,library
@@ -16553,7 +16553,7 @@ childviews,container
 attach-api,extension
 git-review,tool
 ott,control
-softirq,interrupts
+softirq,null
 system-rules,library
 jquery-webcam-plugin,layer
 triple-equals,operator
@@ -17773,7 +17773,7 @@ scalaz-stream,library
 ontopia,tool
 tolog,language
 webloadui,tool
-sqlfilestream,tha
+sqlfilestream,null
 fluent-entity-framework,alternative
 epochx,framework
 geocouch,extension
@@ -17978,7 +17978,7 @@ articulate-storyline,tool
 eurekalog,tool
 transloadit,website
 ceramic-tile-engine,project
-dexguard,obfuscator
+dexguard,null
 cqlengine,mapper
 oracle-xml-db,storage|technology
 prismatic-schema,library
@@ -18077,7 +18077,7 @@ box-view-api,file
 weyland,tool
 passport-twitter,strategy
 vimeo-player,tool
-adabas,agâs
+adabas,null
 waf-framework-c#,framework
 sql-mr,framework
 wpf-positioning,element
@@ -18362,7 +18362,7 @@ groovy-grab,language
 binomial-theorem,term
 jquery-queue,method
 cubic-spline,function
-picoblaze,from(http://wwwxilinxcom)
+picoblaze,null
 rocketpants,tool
 jshtml,engine
 pyfftw,wrapper
@@ -18871,7 +18871,7 @@ spring-data-hadoop,project
 spring-android,framework
 userstyles,program
 manifoldcf,framework
-arago,(ie
+arago,null
 teamviewer,package
 daydream,platform
 rainbow-js,syntax
@@ -19181,7 +19181,7 @@ winscp-net,wrapper
 windows-shortcut,point
 gecode,toolkit
 python-watchdog,library|utilities
-autocloseable,which
+autocloseable,null
 range-tree,structure
 table-data-gateway,pattern
 bcache,cache
@@ -19304,7 +19304,7 @@ source-depot,utility
 winrt-xaml-toolkit,library
 maxthon,browser
 mastercard,interface
-srfi,requests
+srfi,request
 biztalk-services,service
 kannotator,tool
 nginfinitescroll,directive
@@ -19677,7 +19677,7 @@ samsung-mobile-sdk,sdk
 android-kenburnsview,library
 de4dot,library
 instasharp,library
-formatr,tidysource()
+formatr,null
 hoodie,architecture
 optics-algorithm,algorithm
 git-plumbing,command
@@ -20368,7 +20368,7 @@ userapp,api
 libmosquitto,library
 grafika,app
 foxyproxy,tool
-facebook-graph-api-v2.2,v22
+facebook-graph-api-v2.2,null
 rspec-expectations,module
 jarsplice,tool
 medium-editor,editor
@@ -20380,7 +20380,7 @@ asyncdisplaykit,framework
 angular-ui-router-extras,component
 zpanel,panel
 nsstoryboard,graph
-primary-constructor,youâll
+primary-constructor,null
 sbt-revolver,plugin
 moviepy,module
 jbrowse,browser
@@ -20564,7 +20564,7 @@ angularjs-provider,object
 enterprise-miner,model
 smartthings,platform
 sumologic,service
-epicorerp,&#xd&#xa&#xd&#xaplease
+epicorerp,null
 picat,language
 avatars.io,service
 fastly,provider
@@ -20732,7 +20732,7 @@ prologscript,language
 codebug,frontend
 flame.js,library
 xcglogger,framework
-pkcs#10,#10
+pkcs#10,null
 adxstudio-portals,website
 node-commander,parser
 certreq,tool
@@ -20842,7 +20842,7 @@ tightvnc-jviewer,viewer
 iframe-resizer,library
 renpy,engine
 rtl-ppl,library
-spock-reports,for(http://stackoverflowcom/questions/tagged/spock)
+spock-reports,null
 ti-nspire,product
 masonry-ios-osx,library
 aggregate-filter,syntax
@@ -21161,7 +21161,7 @@ tetgen,generator
 twitter-digits,number
 ovh,provider
 dbartisan,toolset
-patternlab.io,is
+patternlab.io,null
 kendo-map,component
 aurelia-validation,plugin
 rfc2217,option
@@ -22139,7 +22139,7 @@ mariadb-connect-engine,engine
 nd4j,library
 dragula,library
 shippo,api
-grails-3.0.9,ruby
+grails-3.0.9,null
 hoodiecrow,server
 comsol,program
 governator,library
@@ -22434,7 +22434,7 @@ rspec-mocks,framework
 isp-principle,principle
 dip-principle,principle
 musicg,api
-wack,kit:
+wack,kit
 diawi,platform
 blazegraph,database
 struts2-jquery-chart,module
