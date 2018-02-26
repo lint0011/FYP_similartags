@@ -1,8 +1,10 @@
 
 # coding: utf-8
 
+
 import re
 import csv
+
 
 #each rows is in the format of :[45901655,'<spring-security><oauth-2.0>']
 #read from csv file, first column is post_id, second column is tags
@@ -12,6 +14,7 @@ with open('Id_Tags.csv') as csvfile:
     for row in rows:
         tagsrows.append(row)
 
+
 TagNames = [] #import all the tags on StackOverflow
 with open('Tags.csv') as csvfile:
     rows = csv.reader(csvfile,delimiter = ',')
@@ -20,6 +23,7 @@ with open('Tags.csv') as csvfile:
 
 #special terms that need to be filtered out when performing cleaning
 #A list of list, in the format of ['original term', 'designated term']
+
 
 special_terms = [['amazon-ec2','amazon-ec2'], ['amazon-s3','amazon-s3'],
                  ['c++1z','c++'],['x11','x11'],['t4','t4'],
@@ -34,6 +38,7 @@ special_terms = [['amazon-ec2','amazon-ec2'], ['amazon-s3','amazon-s3'],
 
 updated_rows = [] #arrays to host rows that needs to be updated
 no_change = [] #arrays with rows of no change
+
 
 #each rows is in the format of :[45901655,'<spring-security><oauth-2.0>']
 for row in tagsrows:
@@ -116,10 +121,13 @@ for row in tagsrows:
             #append new row to updated row
             no_change.append(new_row)
 
+
 csvfile = 'Id_CleanedTags.csv'
 with open(csvfile,'w') as output:
     writer = csv.writer(output,lineterminator = '\n')
+    writer.writerow(['Id','Tags'])
     if no_change is not None:
         writer.writerows(no_change)
     if updated_rows is not None:
         writer.writerows(updated_rows)
+
