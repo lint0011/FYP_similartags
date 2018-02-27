@@ -1,0 +1,25 @@
+.net	The .NET framework is a software framework designed mainly for the Microsoft Windows operating system. It includes an implementation of the Base Class Library, Common Language Runtime (commonly referred to as CLR) and Dynamic Language Runtime. It supports many programming languages, including C#, VB.NET, F# and C++/CLI.&#xD;&#xA;
+sockets	An endpoint of a bidirectional inter-process communication flow. This often refers to a process flow over a network connection, but by no means is limited to such.
+windows	Windows is a family of client, server, and mobile operating systems developed by Microsoft. Use this tag only if your question relates to using Windows APIs or Windows-specific behavior. Questions relating to using or troubleshooting Windows are off-topic.
+oop	Object-oriented programming is a programming paradigm using "objects": data structures consisting of data fields and methods together with their interactions. 
+iphone	DO NOT use this tag unless you are addressing Apple's iPhone and/or iPod touch specifically. For questions not dependent on hardware, use the tag "iOS". Another tag to consider is "cocoa-touch" (but not "cocoa"). Please refrain from questions regarding the iTunes App Store or about iTunes Connect. If using C#, tag with mono.
+vbscript	VBScript (Visual Basic Scripting Edition) is an interpreted scripting language developed by Microsoft that is modeled on Visual Basic.
+excel	Only for questions on complex formula development. Show your data together with the expected results and your current effort to resolve the problem. For VBA programming, you should rather use [tag:excel-vba] or [tag:vba].&#xD;&#xA;&#xD;&#xA;General help regarding MS Excel for single worksheet functions is available at Super User.&#xD;&#xA;&#xD;&#xA;Combine the Excel tag with r, VSTO, C#, VB.NET, PowerShell, OLE automation, and other programming related tags and questions.
+ubuntu	Ubuntu is a free desktop and server operating system based on Debian GNU/Linux. Note that this is for programming questions specific to Ubuntu and http://askubuntu.com is dedicated to answering general Ubuntu questions.
+enums	A data type consisting of a set of named values called elements, members or enumerators of the type.
+loops	Loops are a type of control flow structure in programming in which a series of statements may be executed repeatedly until some condition is met.
+position	Position refers to the location of an element relative to its container, typically on the horizontal and vertical axes.
+google-chrome	Google Chrome is a web browser available on mobile, TV, and desktop platforms. Developed by Google, it uses the Blink layout engine and application framework and V8 JavaScript engine.
+return	A return statement causes execution to leave the current subroutine and resume at the point in the code immediately after where the subroutine was called, known as its return address. The return address is saved, usually on the process's call stack, as part of the operation of making the subroutine call. Some programming languages allow a function to specify a return value to be passed back to the code that called the function.
+list	list may refer to: a linked list (an ordered set of nodes, each referencing its successor), or a form of dynamic array. Not to be used for HTML lists, use the "html-lists" tag instead.
+github	GitHub is a web-based hosting service for software development projects that use Git for version control.
+machine-learning	Machine learning revolves around developing self learning computer algorithms that function by virtue of discovering patterns in data and making intelligent decisions based on such patterns.
+objective-c	This tag should be used only on questions that are about Objective-C features or depend on code in the language. The tags "cocoa" and "cocoa-touch" should be used to ask about Apple's frameworks or classes. Use the related tags [ios] and [osx] for issues specific to those platforms.
+rotation	A rotation is a circular movement of an object around a center (or point) of rotation.  &#xD;&#xA;On a mobile device, it indicates the change of orientation.
+utf	Unicode Transformation Format (8/16/32/...) used for encoding Unicode code points.
+realm	Realm mobile database replacement for SQLite & Core Data. It can be used on both Android and iOS devices. &#xD;&#xA;
+google-chrome-extension	Extension development for the Google Chrome web browser.
+angularjs	AngularJS is an open-source JavaScript framework. Its goal is to augment browser-based applications with Model–View–Whatever(MV*) capability and reduce the amount of JavaScript needed to make web applications functional. These types of apps are also frequently known as Single-Page Applications.
+google-drive-sdk	Google Drive is a free and paid cloud storage service from Google.The Google Drive SDK enables developers to integrate their apps with Google Drive to enhance the end user’s experience.
+iconic	Iconic is a svg icon font with bootstrap / foundation integration.
+pyspark	The Spark Python API (PySpark) exposes the apache-spark programming model to Python.
